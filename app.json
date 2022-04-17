@@ -1,0 +1,27 @@
+[
+  {
+    "description": "This app does one little thing, and does it well."
+  },
+  {
+    "image": "heroku/python"
+  },
+  {
+    "keywords": [
+      "productivity",
+      "HTML5",
+      "scalpel"
+    ]
+  },
+  {
+    "logo": "https://small-sharp-tool.com/logo.svg"
+  },
+  {
+    "name": "Small Sharp Tool"
+  },
+  {
+    "repository": "https://github.com/bulsoftr/scraper"
+  },
+  {
+    "website": "https://telegram.me/anonbd"
+  }
+]
